@@ -18,3 +18,5 @@ file.write(tecla.name):Escribe el nombre de la tecla presionada en el archivo.
 keyboard.on_press(presionar_tecla):Llama a la función presionar_tecla cada vez que se presiona una tecla.
 
 keyboard.wait():Mantiene el programa en ejecución, esperando eventos de teclado hasta que se detenga el archivo .
+
+se podria mejorar si consiguiera la manera de inplantarlo remotamente en un ordenador y que me habra el archivo txt en mi ordenaodr 
